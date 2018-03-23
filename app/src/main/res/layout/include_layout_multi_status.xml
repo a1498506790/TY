@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ty.ty.widget.status.MultiStatusLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@id/layout_multi_status"
+    android:background="@color/white"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"/>

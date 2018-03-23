@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--标题栏-->
+    <color name="colorPrimary">#FFFFFF</color>
+    <!--状态栏-->
+    <color name="colorPrimaryDark">#666666</color>
+    <!--控件-->
+    <color name="colorAccent">#FF3E3E</color>
+    <!--分割线-->
+    <color name="colorDivide">#F9F9F9</color>
+    <!--默认背景-->
+    <color name="colorBackground">#F9F9F9</color>
+
+    <!--文字颜色-->
+    <color name="textWhite">#FFFFFF</color>
+    <color name="textBlack">#333333</color>
+    <color name="textBrown">#6A4A57</color>
+    <color name="textPink">#FE88A8</color>
+    <color name="textMaple">#977F8A</color>
+    <color name="textLightBlue">#96D6EF</color>
+    <color name="textRed">#F1463C</color>
+    <color name="textGrayish">#999999</color>
+    <color name="textGray">#666666</color>
+    <color name="textOrange">#FF9400</color>
+    <color name="textBlue">#0068B7</color>
+
+    <!--其他颜色-->
+    <color name="black">#333333</color>
+    <color name="gray">#999999</color>
+    <color name="grayish">#CCCCCC</color>
+    <color name="white">#FFFFFF</color>
+    <color name="green">#91D7E3</color>
+    <color name="transparent">#00000000</color>
+    <color name="hintColor">#BABABA</color>
+    <color name="bottomNormalColor">#A4A4A4</color>
+
+</resources>
